@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# WDD430
+
+# TODO LIST
 =======
 # React + Vite
 
